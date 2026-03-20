@@ -1,0 +1,1 @@
+A full‑stack “Chatbox” app with a FastAPI backend (signup/login plus chat endpoints for Gemini and OpenAI) and a Next.js frontend that provides a multi‑chat UI with local chat history and auth‑gated messaging.
